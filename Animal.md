@@ -1,3 +1,3 @@
-## University Diagram
+## Animal Diagram
 
 ![Foto](./animal.png)
